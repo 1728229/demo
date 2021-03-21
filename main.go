@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Hello")
 	fmt.Println("Hello world")
         fmt.Println("Hello main")
+	fmt.Println("main master")
 }
