@@ -10,5 +10,6 @@ func main() {
 
 	fmt.Println("Hello branch")
 	fmt.Println("main master")
+	fmt.Println("Hello branch")
 
 }
